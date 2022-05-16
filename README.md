@@ -1,6 +1,10 @@
 # P4
-# García Lugo María Fernanda
-# Méndez Larios Emilio
-# Rivas Gutiérrez Carlos Andrés
-# Villegas Aguilar Carlos
+Equipo B 2.0
 
+García Lugo María Fernanda
+
+Méndez Larios Emilio
+
+Rivas Gutierrez Carlos Andres
+
+Villegas Aguilar Carlos
